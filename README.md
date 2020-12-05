@@ -4,13 +4,13 @@ calculate basic maths algebra.
 
 ## Installation
 
-`npm i basic-calculator --save`
+`npm i basic-maths-calculator --save`
 
 ## Operations
 ```
 const calculator = require('basic-calculator')
 
-calculator(1,2,{
+calculator.calculate(1,2,{
     "operation":"add"
 })
 ```

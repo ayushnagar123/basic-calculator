@@ -1,0 +1,19 @@
+{
+  "name": "basic-maths-calculator",
+  "version": "1.0.0",
+  "description": "basic maths calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushnagar123/basic-calculator.git"
+  },
+  "author": "ayushnagar123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushnagar123/basic-calculator/issues"
+  },
+  "homepage": "https://github.com/ayushnagar123/basic-calculator#readme"
+}
