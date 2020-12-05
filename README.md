@@ -10,7 +10,7 @@ calculate basic maths algebra.
 ```
 const calculator = require('basic-calculator')
 
-calculator.calculate(1,2,{
+calculator.calculate(1,2,options = {
     "operation":"add"
 })
 ```

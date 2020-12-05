@@ -1,6 +1,6 @@
 {
   "name": "basic-maths-calculator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "basic maths calculator",
   "main": "index.js",
   "scripts": {
