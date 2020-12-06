@@ -16,7 +16,7 @@ function calculate(n1,n2,options){
             return n1%n2;
         }
     }
-    return "invalid operation";
+    return "Invalid operation";
 }
 
 module.exports.calculate = calculate;
